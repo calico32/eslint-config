@@ -1,6 +1,6 @@
 {
   "name": "@wiisportsresorts/eslint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My ESLint configuration (typescript)",
   "license": "MIT",
   "packageManager": "yarn@3.1.1",
@@ -16,9 +16,9 @@
     "url": "https://github.com/wiisportsresort/eslint-config.git"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.12.0",
-    "@typescript-eslint/parser": "^5.12.0",
-    "eslint": "^8.9.0",
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint": "^8.10.0",
     "eslint-config-standard-with-typescript": "^21.0.1",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
